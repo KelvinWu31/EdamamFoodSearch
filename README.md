@@ -17,3 +17,13 @@ This site includes the following features:
  ```
 $ git clone https://github.com/KelvinWu31/EdamamFoodSearch.git
 ```
+2. Press Enter and your terminal should look something like this: 
+
+```
+$ git clone https://hostname/YOUR-USERNAME/YOUR-REPOSITORY
+> Cloning into `Spoon-Knife`... 
+> remote: Counting objects: 10, done.
+> remote: Compressing objects: 100% (8/8), done.
+> remove: Total 10 (delta 1), reused 10 (delta 1)
+> Unpacking objects: 100% (10/10), done.
+```
