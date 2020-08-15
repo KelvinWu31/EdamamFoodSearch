@@ -29,3 +29,7 @@ $ git clone https://hostname/YOUR-USERNAME/YOUR-REPOSITORY
 > remove: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
 ```
+--
+The website should look something like this when you search something up: 
+
+![Edimam Food Search Website](/images/ProcessImage.jpg "Edimam Food Search Website")
