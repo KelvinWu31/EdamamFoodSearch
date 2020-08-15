@@ -11,3 +11,7 @@ This site includes the following features:
 + Search Bar
 + API Endpoint 
 + Five display cards
+
+## Installation Instructions: 
+1. Open terminal and type the following: 
+$ git clone https://hostname/YOUR-USERNAME/YOUR-REPOSITORY
