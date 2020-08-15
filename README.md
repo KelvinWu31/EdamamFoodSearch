@@ -22,7 +22,7 @@ $ git clone https://github.com/KelvinWu31/EdamamFoodSearch.git
 2. Press Enter and your terminal should look something like this: 
 
 ```
-$ git clone https://hostname/YOUR-USERNAME/YOUR-REPOSITORY
+$ git clone https://github.com/KelvinWu31/EdamamFoodSearch.git
 > Cloning into `Spoon-Knife`... 
 > remote: Counting objects: 10, done.
 > remote: Compressing objects: 100% (8/8), done.
@@ -30,6 +30,7 @@ $ git clone https://hostname/YOUR-USERNAME/YOUR-REPOSITORY
 > Unpacking objects: 100% (10/10), done.
 ```
 --
+
 The website should look something like this when you search something up: 
 
 ![Edimam Food Search Website](/images/ProcessImage.jpg "Edimam Food Search Website")
