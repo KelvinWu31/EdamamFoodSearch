@@ -14,4 +14,6 @@ This site includes the following features:
 
 ## Installation Instructions: 
 1. Open terminal and type the following: 
-$ git clone https://hostname/YOUR-USERNAME/YOUR-REPOSITORY
+ ```
+$ git clone https://github.com/KelvinWu31/EdamamFoodSearch.git
+```
