@@ -13,6 +13,8 @@ This site includes the following features:
 + Five display cards
 
 ## Installation Instructions: 
+To run or edit this program locally: 
+
 1. Open terminal and type the following: 
  ```
 $ git clone https://github.com/KelvinWu31/EdamamFoodSearch.git
